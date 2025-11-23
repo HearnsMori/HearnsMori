@@ -1,8 +1,8 @@
-<h1 align="center">Mori, Hearns S.</h1>
+<h1 align="left">Mori, Hearns S.</h1>
 
 ###
 <div align="center">
-  <h2>Web Frontend Development</h2>
+  <h2 align="left">Web Frontend Development</h2>
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
@@ -19,7 +19,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <h2>Web Backend Development</h2>
+  
+  <h2 align="left">Web Backend Development</h2>
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=expressjs" height="60" alt="expressjs logo"  />
@@ -27,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
   
-  <h2>Languages & Backend</h2>
+  <h2 align="left">Languages & Backend</h2>
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
@@ -43,13 +44,13 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
   <img width="12" />
 
-  <h2>Database</h2>
+  <h2 align="left">Database</h2>
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
   <img width="12" />
 
-  <h2>Connection</h2>
+  <h2 align="left">Connection</h2>
   <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
@@ -57,7 +58,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
 
-  <h2>Native Development</h2>
+  <h2 align="left">Native Development</h2>
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="android logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=apple" height="60" alt="ios logo"  />
@@ -65,31 +66,21 @@
   <img src="https://skillicons.dev/icons?i=windows" height="60" alt="windows logo"  />
   <img width="12" />
 
-  <h2>UI/UX</h2>
+  <h2 align="left">UI/UX</h2>
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="12" />
 
-  <h2>Ops</h2>
+  <h2 align="left">Ops</h2>
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
 
-  <h2>Archtecture</h2>
-  <h7>Mircroservices</h7>
-  <h7>RESTful API</h7>
-  <h7>JWT Auth</h7>
-  <h7>Rest Encryption</h7>
-  <h7>End-to-End Encryption</h7>
+  <h2 align="left">Archtecture</h2>
+  <h7>Mircroservices</h7><br/>
+  <h7>RESTful API</h7><br/>
+  <h7>JWT Auth</h7><br/>
+  <h7>Rest Encryption</h7><br/>
+  <h7>End-to-End Encryption</h7><br/>
   
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
 ###
