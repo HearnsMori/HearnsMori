@@ -1,6 +1,13 @@
 <h1 align="left">Mori, Hearns S.</h1>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hearnsmori&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=hearnsmori&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
 <div align="center">
   <h2 align="left">Web Frontend Development</h2>
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
@@ -44,13 +51,11 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
   <img width="12" />
 
-  <h2 align="left">Database</h2>
+  <h2 align="left">Database & Connection</h2>
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
   <img width="12" />
-
-  <h2 align="left">Connection</h2>
   <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
@@ -75,17 +80,12 @@
   <img width="12" />
 
   <h2 align="left">Archtecture</h2>
-  <h7>Mircroservices</h7><br/>
-  <h7>RESTful API</h7><br/>
-  <h7>JWT Auth</h7><br/>
-  <h7>Rest Encryption</h7><br/>
-  <h7>End-to-End Encryption</h7><br/>
+  <h6 align="left">Mircroservices</h7><br/>
+  <h6 align="left">RESTful API</h7><br/>
+  <h6 align="left">JWT Auth</h7><br/>
+  <h6 align="left">Rest Encryption</h7><br/>
+  <h6 align="left">End-to-End Encryption</h7><br/>
   
 </div>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hearnsmori&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=hearnsmori&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
